@@ -1,0 +1,7 @@
+/xc-framework-common/target
+/xc-framework-utils/target
+/xc-framework-model/target
+/xc-register-center/target
+.idea
+*.iml
+
